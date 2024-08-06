@@ -47,6 +47,7 @@ a {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	border-bottom: 1px solid #e7e9fc;
 }
 .container {
 	max-width: 1158px;
@@ -79,6 +80,7 @@ button {
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: #4d5ae5;
+	margin-right: 76px;
 }
 
 .logo-web {
@@ -167,10 +169,7 @@ address {
 }
 
 .effective-solutions {
-	padding-top: 115px;
-	padding-bottom: 120px;
-	padding-left: 156px;
-	padding-right: 156px;
+	padding: 120px 0;
 }
 .effective-list {
 	display: flex;
